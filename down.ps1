@@ -10,31 +10,31 @@ $files = @(
 
         @{
         uri = 'https://docs.google.com/uc?export=download&id=1HNXgKna5_7Awsd7LZ-QqJ88Gh6xvVW-J'
-        outfile = 'C:\Users\Counter 07\Desktop\New folder (2)\config_ag'
+        outfile = 'C:\m\config_ag'
     },
     @{
         uri = 'https://docs.google.com/uc?export=download&id=1uBFz_nvBh4zxGpw0otM53z7aGpfa3lVY'
-        outfile = 'C:\Users\Counter 07\Desktop\New folder (2)\config_ag_ap'
+        outfile = 'C:\m\config_ag_ap'
     },
         @{
         uri = 'https://docs.google.com/uc?export=download&id=1Qp1WYSAWCLnNoBN4iaV4swZtMrtCsE-U'
-        outfile = 'C:\Users\Counter 07\Desktop\New folder (2)\config_li'
+        outfile = 'C:\m\config_li'
     },
             @{
         uri = 'https://docs.google.com/uc?export=download&id=1ECHgMJPI8Z0zfXWCaJtRqr8_cKcHvpSl'
-        outfile = 'C:\Users\Counter 07\Desktop\New folder (2)\config_lv_prod'
+        outfile = 'C:\m\config_lv_prod'
     }, 
     @{
         uri = 'https://docs.google.com/uc?export=download&id=1yeuftZZcgLubwcoEnDCRQ6W5Ul2wzW0-'
-        outfile = 'C:\Users\Counter 07\Desktop\New folder (2)\config_pg'
+        outfile = 'C:\m\config_pg'
     },
         @{
         uri = 'https://docs.google.com/uc?export=download&id=1LQA-VaGWAUa8t1n5c_p34V-oTpbV7GnS'
-        outfile = 'C:\Users\Counter 07\Desktop\New folder (2)\config_tk_prod'
+        outfile = 'C:\m\config_tk_prod'
     }, 
        @{
         uri = 'https://docs.google.com/uc?export=download&id=1RkGr9IY95cu4mf6AKn-8T2g8gKcfeBH_'
-        outfile = 'C:\Users\Counter 07\Desktop\New folder (2)\config_vg_prod'
+        outfile = 'C:\m\config_vg_prod'
     }
    
     <# @{
