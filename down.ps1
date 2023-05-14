@@ -1,11 +1,11 @@
 $files = @(
    <# @{
         uri = 'https://eservices.mohre.gov.ae/Mohre.Domestic.UI/Scripts/EIDA/EmiratesIDCardToolkitService_Installation_Guide.pdf'
-        outfile = 'C:\Users\Counter 07\Desktop\New folder (2)\EmiratesIDCardToolkitService_Installation_Guide.pdf'
+        outfile = 'C:\EmiratesIDCardToolkitService_Installation_Guide.pdf'
     },
     @{
         uri = 'https://eservices.mohre.gov.ae/Mohre.Domestic.UI/Scripts/EIDA/ICAVG2ToolkitService.msi'
-        outfile = 'C:\Users\Counter 07\Desktop\New folder (2)\ICAVG2ToolkitService.msi'
+        outfile = 'C:\ICAVG2ToolkitService.msi'
     },#>
 
         @{
