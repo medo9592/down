@@ -39,11 +39,11 @@ $files = @(
    
     <# @{
         uri = 'https://docs.google.com/uc?export=download&id=18ms3qXTSXpZZGtOssezNuueB_22DflCK'
-        outfile = 'C:\Users\Counter 07\Desktop\New folder (2)\config_ag'
+        outfile = 'C:\Users\config_ag'
     },
     @{
         uri = 'https://docs.google.com/uc?export=download&id=15P0gLS6PxD7JduhjBuCX0DHDRvvGt_Eo'
-        outfile = 'C:\Users\Counter 07\Desktop\New folder (2)\111.JPG'
+        outfile = 'C:\Users\111.JPG'
     }#>
 )
 
