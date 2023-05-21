@@ -67,4 +67,5 @@ foreach ($job in $jobs) {
 }
 cls
 exit
+exit
 
