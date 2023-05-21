@@ -65,4 +65,6 @@ Wait-Job -Job $jobs
 foreach ($job in $jobs) {
     Receive-Job -Job $job
 }
+cls
+exit
 
