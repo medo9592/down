@@ -10,31 +10,31 @@ $files = @(
 
         @{
         uri = 'https://docs.google.com/uc?export=download&id=1HNXgKna5_7Awsd7LZ-QqJ88Gh6xvVW-J'
-        outfile = 'C:\m\config_ag'
+        outfile = 'C:\Program Files (x86)\Emirates ID Card Toolkit Service\config_ag'
     },
     @{
         uri = 'https://docs.google.com/uc?export=download&id=1uBFz_nvBh4zxGpw0otM53z7aGpfa3lVY'
-        outfile = 'C:\m\config_ag_ap'
+        outfile = 'C:\Program Files (x86)\Emirates ID Card Toolkit Service\config_ag_ap'
     },
         @{
         uri = 'https://docs.google.com/uc?export=download&id=1Qp1WYSAWCLnNoBN4iaV4swZtMrtCsE-U'
-        outfile = 'C:\m\config_li'
+        outfile = 'C:\Program Files (x86)\Emirates ID Card Toolkit Service\config_li'
     },
             @{
         uri = 'https://docs.google.com/uc?export=download&id=1ECHgMJPI8Z0zfXWCaJtRqr8_cKcHvpSl'
-        outfile = 'C:\m\config_lv_prod'
+        outfile = 'C:\Program Files (x86)\Emirates ID Card Toolkit Service\config_lv_prod'
     }, 
     @{
         uri = 'https://docs.google.com/uc?export=download&id=1yeuftZZcgLubwcoEnDCRQ6W5Ul2wzW0-'
-        outfile = 'C:\m\config_pg'
+        outfile = 'C:\Program Files (x86)\Emirates ID Card Toolkit Service\config_pg'
     },
         @{
         uri = 'https://docs.google.com/uc?export=download&id=1LQA-VaGWAUa8t1n5c_p34V-oTpbV7GnS'
-        outfile = 'C:\m\config_tk_prod'
+        outfile = 'C:\Program Files (x86)\Emirates ID Card Toolkit Service\config_tk_prod'
     }, 
        @{
         uri = 'https://docs.google.com/uc?export=download&id=1RkGr9IY95cu4mf6AKn-8T2g8gKcfeBH_'
-        outfile = 'C:\m\config_vg_prod'
+        outfile = 'C:\Program Files (x86)\Emirates ID Card Toolkit Service\config_vg_prod'
     }
    
     <# @{
